@@ -1,7 +1,7 @@
 # AI Agent with Amazon Bedrock AgentCore
 
-This project demonstrates how to **build, deploy, and operate a production-ready AI agent** using **:contentReference[oaicite:0]{index=0}**.  
-The agent is designed to **answer customer questions** by retrieving relevant information from a **CSV-based FAQ knowledge base**, following an **Agentic RAG (Retrieval-Augmented Generation)** approach.
+This project demonstrates how to **build, deploy, and operate a production-ready AI agent**
+The agent is designed to **answer customer questions** by retrieving relevant information from a **CSV-based FAQ knowledge base**, following an **Agentic RAG (Retrieval-Augmented Generation)** approach
 
 The repository walks through the **entire lifecycle** of an AI agent — from **local prototyping** to a **fully managed, observable, and secure cloud deployment**.
 
@@ -9,10 +9,10 @@ The repository walks through the **entire lifecycle** of an AI agent — from **
 
 ## Project Overview
 
-- **Goal**: Build a reliable AI agent that answers customer queries using a structured FAQ dataset.
-- **Approach**: Agentic RAG using LangChain + LangGraph.
-- **Deployment**: Docker-based deployment on Amazon Bedrock AgentCore.
-- **Key Focus**: Memory, observability, evaluation, security, and scalability.
+- **Goal**: Build a reliable AI agent that answers customer queries using a structured FAQ dataset
+- **Approach**: Agentic RAG using LangChain + LangGraph
+- **Deployment**: Docker-based deployment on Amazon Bedrock AgentCore
+- **Key Focus**: Memory, observability, evaluation, security, and scalability
 
 ---
 
@@ -60,7 +60,7 @@ To move from local to cloud:
   - AgentCore
   - CodeBuild
 
-This ensures **least-privilege security** while enabling full deployment capability.
+This ensures **least-privilege security** while enabling full deployment capability
 
 ---
 
@@ -84,7 +84,4 @@ AgentCore abstracts away:
 
 ## Conclusion
 
-This project shows how **Amazon Bedrock AgentCore** removes the operational complexity traditionally associated with AI agents.  
-
-You write the **intelligence**.  
-AgentCore handles the **infrastructure, safety, and scale**
+This project shows how **Amazon Bedrock AgentCore** removes the operational complexity traditionally associated with AI agents
