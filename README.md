@@ -17,7 +17,7 @@ The repository walks through the **entire lifecycle** of an AI agent — from **
 ---
 
 ## Architecture at a Glance
-
+```
 User Query
 ↓
 AI Agent (LangGraph Logic)
@@ -30,6 +30,7 @@ Memory + Policies + Tools (AgentCore)
 ↓
 Final Answer
 
+```
 ---
 
 ## Project Workflow
