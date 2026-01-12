@@ -1,4 +1,4 @@
-# Production-Ready AI Agent with Amazon Bedrock AgentCore
+# AI Agent with Amazon Bedrock AgentCore
 
 This project demonstrates how to **build, deploy, and operate a production-ready AI agent** using **:contentReference[oaicite:0]{index=0}**.  
 The agent is designed to **answer customer questions** by retrieving relevant information from a **CSV-based FAQ knowledge base**, following an **Agentic RAG (Retrieval-Augmented Generation)** approach.
